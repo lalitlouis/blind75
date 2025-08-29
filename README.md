@@ -27,7 +27,7 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Reverse Bits
 
 ## Dynamic Programming (12 problems)
-- [x] Climbing Stairs ✅
+- [ ] Climbing Stairs ✅
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
@@ -76,14 +76,14 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Minimum Window Substring
 - [x] Valid Anagram ✅
 - [x] Group Anagrams ✅
-- [x] Valid Parentheses ✅
-- [x] Valid Palindrome ✅
+- [ ] Valid Parentheses ✅
+- [ ] Valid Palindrome ✅
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 
 ## Tree (11 problems)
 - [x] Maximum Depth of Binary Tree ✅
-- [ ] Same Tree
+- [x] Same Tree ✅
 - [ ] Invert Binary Tree
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Binary Tree Level Order Traversal
