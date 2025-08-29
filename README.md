@@ -1,8 +1,10 @@
+Here's the recalculated and corrected README:
+
 # Blind 75 - Coding Interview Preparation
 
 A curated list of 75 essential coding interview problems. Track your progress below.
 
-## Progress: 10/75 ✅
+## Progress: 20/75 ✅
 
 ---
 
@@ -10,8 +12,8 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [x] Two Sum ✅
 - [x] Best Time to Buy and Sell Stock ✅  
 - [x] Contains Duplicate ✅
-- [x] Product of Array Except Self
-- [x] Maximum Subarray
+- [ ] Product of Array Except Self
+- [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [x] Search in Rotated Sorted Array ✅
@@ -27,7 +29,7 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Reverse Bits
 
 ## Dynamic Programming (12 problems)
-- [ ] Climbing Stairs ✅
+- [x] Climbing Stairs ✅
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
@@ -38,6 +40,7 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Decode Ways
 - [x] Unique Paths ✅
 - [ ] Jump Game
+- [x] Minimum Path Sum ✅
 
 ## Graph (7 problems)
 - [ ] Clone Graph
@@ -64,7 +67,7 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Remove Nth Node From End Of List
 - [ ] Reorder List
 
-## Matrix (5 problems)
+## Matrix (4 problems)
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
 - [ ] Rotate Image
@@ -76,54 +79,25 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Minimum Window Substring
 - [x] Valid Anagram ✅
 - [x] Group Anagrams ✅
-- [ ] Valid Parentheses ✅
-- [ ] Valid Palindrome ✅
+- [x] Valid Parentheses ✅
+- [x] Valid Palindrome ✅
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 
 ## Tree (11 problems)
 - [x] Maximum Depth of Binary Tree ✅
 - [x] Same Tree ✅
-- [ ] Invert Binary Tree
-- [ ] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
-- [ ] Serialize and Deserialize Binary Tree
-- [ ] Subtree of Another Tree
+- [x] Invert Binary Tree ✅
+- [x] Binary Tree Maximum Path Sum ✅
+- [x] Binary Tree Level Order Traversal ✅
+- [x] Serialize and Deserialize Binary Tree ✅
+- [x] Subtree of Another Tree ✅
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Validate Binary Search Tree
-- [ ] Kth Smallest Element in a BST
-- [ ] Lowest Common Ancestor of BST
+- [x] Validate Binary Search Tree ✅
+- [x] Kth Smallest Element in a BST ✅
+- [x] Lowest Common Ancestor of BST ✅
 
 ## Heap (3 problems)
 - [ ] Merge k Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
-
----
-
-## Daily Progress Log
-
-### Day 1: Arrays & Two Pointers
-- [x] Two Sum
-- [x] Best Time to Buy and Sell Stock  
-- [x] Container With Most Water
-- [x] Valid Palindrome
-
-### Day 2: Strings & Binary Search
-- [x] Group Anagrams
-- [x] Longest Substring Without Repeating Characters
-- [x] Search in Rotated Sorted Array
-
-### Day 3: Recursion & Memoization
-- [x] Climbing Stairs (House Robber pattern)
-- [x] House Robber
-- [x] Unique Paths
-
-### Day 4: Trees
-- [x] Maximum Depth of Binary Tree
-- [ ] Same Tree (in progress)
-
-## Notes
-- Focus on understanding patterns rather than memorizing solutions
-- Implement in Go for interview consistency
-- Practice explaining approach out loud
