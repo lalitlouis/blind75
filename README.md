@@ -1,10 +1,8 @@
-Here's the recalculated and corrected README:
-
 # Blind 75 - Coding Interview Preparation
 
 A curated list of 75 essential coding interview problems. Track your progress below.
 
-## Progress: 20/75 ✅
+## Progress: 30/75 ✅
 
 ---
 
@@ -59,13 +57,13 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [ ] Meeting Rooms II (Leetcode Premium)
 - [ ] Minimum Number of Arrows to Burst Balloons
 
-## Linked List (6 problems)
-- [ ] Reverse Linked List
-- [ ] Detect Cycle in a Linked List
-- [ ] Merge Two Sorted Lists
-- [ ] Merge k Sorted Lists
-- [ ] Remove Nth Node From End Of List
-- [ ] Reorder List
+## Linked List (6 problems) - COMPLETE
+- [x] Reverse Linked List ✅
+- [x] Detect Cycle in a Linked List ✅
+- [x] Merge Two Sorted Lists ✅
+- [x] Merge k Sorted Lists ✅
+- [x] Remove Nth Node From End Of List ✅
+- [x] Reorder List ✅
 
 ## Matrix (4 problems)
 - [ ] Set Matrix Zeroes
@@ -98,6 +96,6 @@ A curated list of 75 essential coding interview problems. Track your progress be
 - [x] Lowest Common Ancestor of BST ✅
 
 ## Heap (3 problems)
-- [ ] Merge k Sorted Lists
+- [x] Merge k Sorted Lists ✅ (Note: Also counted in Linked List)
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream

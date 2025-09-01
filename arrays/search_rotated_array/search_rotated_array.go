@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	TestSearchRotatedArray()
@@ -33,9 +35,9 @@ func TestSearchRotatedArray() {
 		fmt.Printf("Expected: %d, Got: %d\n", tc.expected, result)
 
 		if result == tc.expected {
-			fmt.Println("PASS\n")
+			fmt.Println("✅ PASS")
 		} else {
-			fmt.Println("FAIL\n")
+			fmt.Println("❌ FAIL")
 		}
 	}
 }
@@ -103,8 +105,4 @@ func getGpuResources(nums []int, target int) bool {
 	}
 
 	return false
-}
-
-func GetGpuResources(nums []int) {
-
 }

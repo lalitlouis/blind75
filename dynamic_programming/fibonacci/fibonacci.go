@@ -33,9 +33,9 @@ func TestFibonacci() {
 		fmt.Printf("Input: %d, Expected: %d, Got: %d\n", tc.input, tc.expected, result)
 
 		if result == tc.expected {
-			fmt.Println("PASS\n")
+			fmt.Println("✅ PASS")
 		} else {
-			fmt.Printf("FAIL\n\n")
+			fmt.Printf("❌ FAIL\n\n")
 		}
 	}
 }

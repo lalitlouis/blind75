@@ -37,7 +37,7 @@ func MaxPathSumHelper(root *TreeNode, globalSum int) int {
 
 	globalSum = max(globalSum, leftMax+root.Val+rightMax)
 
-	return max(globalSum, root.Val+max(leftMax, rightMax))
+	return root.Val + max(leftMax, rightMax)
 }
 
 func max(a, b int) int {

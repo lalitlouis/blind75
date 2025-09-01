@@ -31,9 +31,9 @@ func TestInvertTree() {
 		fmt.Printf("Expected: %s, Got: %s\n", tc.expected, resultStr)
 
 		if resultStr == tc.expected {
-			fmt.Println("PASS\n")
+			fmt.Println("✅ PASS")
 		} else {
-			fmt.Println("FAIL\n")
+			fmt.Println("❌ FAIL")
 		}
 	}
 }

@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func TestTwoSum() {
 
@@ -29,15 +31,15 @@ func TestTwoSum() {
 		fmt.Printf("Got: %v (found: %t)\n", result, found)
 
 		if found != nil && tc.expected == nil {
-			fmt.Println("PASS")
+			fmt.Println("✅ PASS")
 		} else if found == nil && tc.expected != nil && len(result) == 2 {
 			if tc.nums[result[0]]+tc.nums[result[1]] == tc.target {
-				fmt.Println("PASS")
+				fmt.Println("✅ PASS")
 			} else {
-				fmt.Println("FAIL")
+				fmt.Println("❌ FAIL")
 			}
 		} else {
-			fmt.Println("FAIL")
+			fmt.Println("❌ FAIL")
 		}
 	}
 

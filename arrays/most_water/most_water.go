@@ -36,17 +36,17 @@ func TestMostWater() {
 
 		if tc.hasError {
 			if err != nil {
-				fmt.Println("PASS (expected error)")
+				fmt.Println("✅ PASS (expected error)")
 			} else {
-				fmt.Printf("FAIL (expected error, got %d)\n", result)
+				fmt.Printf("❌ FAIL (expected error, got %d)\n", result)
 			}
 		} else {
 			if err != nil {
-				fmt.Printf("FAIL (unexpected error: %v)\n", err)
+				fmt.Printf("❌ FAIL (unexpected error: %v)\n", err)
 			} else if result == tc.expected {
-				fmt.Println("PASS")
+				fmt.Println("✅ PASS")
 			} else {
-				fmt.Printf("FAIL (expected %d, got %d)\n", tc.expected, result)
+				fmt.Printf("❌ FAIL (expected %d, got %d)\n", tc.expected, result)
 			}
 		}
 	}
